@@ -7,16 +7,66 @@
     "status": "Approved",
     "version": 3,
     "versions": [
-      { "v": 1, "total": 120000, "date": "2025-04-01", "note": "Initial draft" },
-      { "v": 2, "total": 138000, "date": "2025-04-10", "note": "Added AV upgrade" },
-      { "v": 3, "total": 145000, "date": "2025-04-18", "note": "Final with catering" }
+      {
+        "v": 1,
+        "total": 120000,
+        "date": "2025-04-01",
+        "note": "Initial draft"
+      },
+      {
+        "v": 2,
+        "total": 138000,
+        "date": "2025-04-10",
+        "note": "Added AV upgrade"
+      },
+      {
+        "v": 3,
+        "total": 145000,
+        "date": "2025-04-18",
+        "note": "Final with catering"
+      }
     ],
     "items": [
-      { "id": "i1", "description": "Stage Setup & Truss", "category": "Fabrication", "qty": 1, "rate": 45000, "amount": 45000 },
-      { "id": "i2", "description": "LED Wall 12x8 ft", "category": "AV", "qty": 2, "rate": 18000, "amount": 36000 },
-      { "id": "i3", "description": "Sound System Package", "category": "AV", "qty": 1, "rate": 25000, "amount": 25000 },
-      { "id": "i4", "description": "Catering - Lunch Buffet", "category": "F&B", "qty": 400, "rate": 850, "amount": 34000 },
-      { "id": "i5", "description": "Event Management Fee", "category": "Service", "qty": 1, "rate": 15000, "amount": 15000 }
+      {
+        "id": "i1",
+        "description": "Stage Setup & Truss",
+        "category": "Fabrication",
+        "qty": 1,
+        "rate": 45000,
+        "amount": 45000
+      },
+      {
+        "id": "i2",
+        "description": "LED Wall 12x8 ft",
+        "category": "AV",
+        "qty": 2,
+        "rate": 18000,
+        "amount": 36000
+      },
+      {
+        "id": "i3",
+        "description": "Sound System Package",
+        "category": "AV",
+        "qty": 1,
+        "rate": 25000,
+        "amount": 25000
+      },
+      {
+        "id": "i4",
+        "description": "Catering - Lunch Buffet",
+        "category": "F&B",
+        "qty": 400,
+        "rate": 850,
+        "amount": 34000
+      },
+      {
+        "id": "i5",
+        "description": "Event Management Fee",
+        "category": "Service",
+        "qty": 1,
+        "rate": 15000,
+        "amount": 15000
+      }
     ]
   },
   {
@@ -27,13 +77,44 @@
     "status": "Pending",
     "version": 2,
     "versions": [
-      { "v": 1, "total": 195000, "date": "2025-04-05", "note": "Initial estimate" },
-      { "v": 2, "total": 210000, "date": "2025-04-20", "note": "Decor enhancement" }
+      {
+        "v": 1,
+        "total": 195000,
+        "date": "2025-04-05",
+        "note": "Initial estimate"
+      },
+      {
+        "v": 2,
+        "total": 210000,
+        "date": "2025-04-20",
+        "note": "Decor enhancement"
+      }
     ],
     "items": [
-      { "id": "i1", "description": "Floral Decor Package", "category": "Decor", "qty": 1, "rate": 60000, "amount": 60000 },
-      { "id": "i2", "description": "DJ + Sound Setup", "category": "AV", "qty": 1, "rate": 35000, "amount": 35000 },
-      { "id": "i3", "description": "Dinner Buffet", "category": "F&B", "qty": 250, "rate": 1200, "amount": 300000 }
+      {
+        "id": "i1",
+        "description": "Floral Decor Package",
+        "category": "Decor",
+        "qty": 1,
+        "rate": 60000,
+        "amount": 60000
+      },
+      {
+        "id": "i2",
+        "description": "DJ + Sound Setup",
+        "category": "AV",
+        "qty": 1,
+        "rate": 35000,
+        "amount": 35000
+      },
+      {
+        "id": "i3",
+        "description": "Dinner Buffet",
+        "category": "F&B",
+        "qty": 250,
+        "rate": 1200,
+        "amount": 300000
+      }
     ]
   }
 ]

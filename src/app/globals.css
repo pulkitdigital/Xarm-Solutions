@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 @import "tailwindcss";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 * { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', sans-serif;
+}
 
 ::-webkit-scrollbar { width: 5px; height: 5px; }
 ::-webkit-scrollbar-track { background: #0d1117; }
@@ -20,9 +25,11 @@ input, select, textarea {
   width: 100%;
   transition: border-color 0.15s;
 }
+
 input:focus, select:focus, textarea:focus {
   border-color: #f59e0b !important;
 }
+
 label {
   display: block;
   font-size: 11px;
