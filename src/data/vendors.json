@@ -1,0 +1,7 @@
+[
+  { "id": "VEN001", "name": "SoundWave AV", "category": "AV Zone", "type": "Fabrication", "phone": "+91 9876543210", "email": "contact@soundwave.in", "address": "Andheri East, Mumbai", "gst": "27AADCS1234A1Z5", "rating": 4.5, "status": "Active", "notes": "Premium AV partner" },
+  { "id": "VEN002", "name": "LightCraft Studios", "category": "Lighting", "type": "Fabrication", "phone": "+91 9123456780", "email": "info@lightcraft.in", "address": "Saket, Delhi", "gst": "07AABCL5678B2Z3", "rating": 4.2, "status": "Active", "notes": "Specializes in LED walls" },
+  { "id": "VEN003", "name": "PrimePrint Co.", "category": "Logistics", "type": "Printing", "phone": "+91 9988776655", "email": "sales@primeprint.co", "address": "Whitefield, Bangalore", "gst": "29AACCP9012C3Z1", "rating": 3.8, "status": "Active", "notes": "" },
+  { "id": "VEN004", "name": "GreenBite Catering", "category": "Catering", "type": "F&B", "phone": "+91 9765432100", "email": "orders@greenbite.in", "address": "Koregaon Park, Pune", "gst": "27AAACG3456D4Z7", "rating": 4.7, "status": "Active", "notes": "Vegetarian specialists" },
+  { "id": "VEN005", "name": "StructurePro", "category": "AV Zone", "type": "Fabrication", "phone": "+91 9654321098", "email": "ops@structurepro.in", "address": "Okhla, Delhi", "gst": "07AABCS7890E5Z2", "rating": 4.0, "status": "Inactive", "notes": "Stage & truss specialists" }
+]

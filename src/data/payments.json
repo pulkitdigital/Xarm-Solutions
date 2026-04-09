@@ -1,0 +1,8 @@
+[
+  { "id": "PAY001", "type": "incoming", "party": "Acme Corp", "eventId": "EVT001", "eventName": "Tech Summit 2025", "amount": 75000, "dueDate": "2025-05-01", "paidDate": "2025-04-30", "status": "Paid", "method": "NEFT", "ref": "NEFT2025043001" },
+  { "id": "PAY002", "type": "incoming", "party": "Nexus Ltd", "eventId": "EVT002", "eventName": "Annual Gala Night", "amount": 110000, "dueDate": "2025-06-15", "paidDate": null, "status": "Pending", "method": "", "ref": "" },
+  { "id": "PAY003", "type": "outgoing", "party": "SoundWave AV", "eventId": "EVT001", "eventName": "Tech Summit 2025", "amount": 25000, "dueDate": "2025-05-10", "paidDate": "2025-05-09", "status": "Paid", "method": "UPI", "ref": "UPI20250509XR" },
+  { "id": "PAY004", "type": "outgoing", "party": "LightCraft Studios", "eventId": "EVT002", "eventName": "Annual Gala Night", "amount": 36000, "dueDate": "2025-07-05", "paidDate": null, "status": "Overdue", "method": "", "ref": "" },
+  { "id": "PAY005", "type": "incoming", "party": "Orbit Media", "eventId": "EVT003", "eventName": "Product Launch - X1", "amount": 80000, "dueDate": "2025-04-15", "paidDate": "2025-04-14", "status": "Paid", "method": "Cheque", "ref": "CHQ-00456" },
+  { "id": "PAY006", "type": "outgoing", "party": "GreenBite Catering", "eventId": "EVT001", "eventName": "Tech Summit 2025", "amount": 34000, "dueDate": "2025-06-10", "paidDate": null, "status": "Pending", "method": "", "ref": "" }
+]
