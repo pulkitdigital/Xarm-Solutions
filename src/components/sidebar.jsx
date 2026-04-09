@@ -29,7 +29,7 @@ export default function Sidebar() {
           </div>
           <span className="text-white font-bold text-lg tracking-widest uppercase">XARM</span>
         </div>
-        <p className="text-[10px] text-slate-500 mt-1 tracking-wider">Solutions CRM</p>
+        <p className="text-[10px] text-slate-500 mt-1 tracking-wider">Solutions</p>
       </div>
 
       {/* Nav */}
